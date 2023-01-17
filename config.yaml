@@ -1,0 +1,6 @@
+chatGPTAccountPool:
+  - email: 1143181722@qq.com
+    password: 11431817
+    isGoogleLogin: false
+chatPrivateTiggerKeyword: ""
+openAIProxy: ""
